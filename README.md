@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Andrey 👋
 
-<!--
-**AndreyBS1/AndreyBS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building modern web applications with React and TypeScript.
 
-Here are some ideas to get you started:
+I enjoy creating clean UI, scalable architecture and performant interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Saint Petersburg, Russia  
+💻 5+ years of frontend development experience  
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+
+JavaScript  
+TypeScript  
+React  
+Angular  
+Vue  
+Next.js  
+React Native  
+Electron  
+
+**State management**
+
+Tanstack Query  
+Zustand  
+Redux Toolkit  
+
+**Styling**
+
+CSS  
+SCSS  
+PostCSS  
+Tailwind
+
+**Tools**
+
+Git  
+Webpack  
+Vite  
+ESLint  
+Prettier
+
+**Architecture**
+
+Feature-Sliced Design
+
+---
+
+## 📫 Contacts
+
+Email: andrey.babenkov.00@gmail.com  
+Telegram: https://andreybs.t.me
+
+---
+
+⭐ Always open to interesting frontend projects and collaboration.
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyBS1)
