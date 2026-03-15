@@ -9,10 +9,9 @@ Building modern web applications with clean UI and scalable architecture
 
 ## 👨‍💻 About Me
 
-- 💻 Frontend Developer with **5+ years of experience**
-- ⚛️ Main stack: **React, TypeScript, Next.js**
+- 💻 Frontend Developer with **N+ years of experience**
+- ⚛️ Main stack: **React, TypeScript, Tailwind**
 - 🧠 Interested in **frontend architecture and performance**
-- 🏗 Working with **Feature-Sliced Design**
 - 📍 Saint Petersburg
 
 ---
@@ -35,26 +34,6 @@ Building modern web applications with clean UI and scalable architecture
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,webpack,vite,docker,nginx,figma" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AndreyBS1&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyBS1&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
-## 🔥 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AndreyBS1&theme=tokyo-night"/>
 </p>
 
 ---
