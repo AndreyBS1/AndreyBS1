@@ -57,7 +57,3 @@ Telegram: https://andreybs.t.me
 ---
 
 ⭐ Always open to interesting frontend projects and collaboration.
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyBS1)
