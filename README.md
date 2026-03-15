@@ -1,59 +1,73 @@
-# Hi, I'm Andrey 👋
+<h1 align="center">Hi 👋, I'm Andrey</h1>
+<h3 align="center">Frontend Developer | React | TypeScript</h3>
 
-Frontend Developer focused on building modern web applications with React and TypeScript.
-
-I enjoy creating clean UI, scalable architecture and performant interfaces.
-
-📍 Saint Petersburg, Russia  
-💻 5+ years of frontend development experience  
+<p align="center">
+Building modern web applications with clean UI and scalable architecture
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 👨‍💻 About Me
 
-**Frontend**
-
-JavaScript  
-TypeScript  
-React  
-Angular  
-Vue  
-Next.js  
-React Native  
-Electron  
-
-**State management**
-
-Tanstack Query  
-Zustand  
-Redux Toolkit  
-
-**Styling**
-
-CSS  
-SCSS  
-PostCSS  
-Tailwind
-
-**Tools**
-
-Git  
-Webpack  
-Vite  
-ESLint  
-Prettier
-
-**Architecture**
-
-Feature-Sliced Design
+- 💻 Frontend Developer with **5+ years of experience**
+- ⚛️ Main stack: **React, TypeScript, Next.js**
+- 🧠 Interested in **frontend architecture and performance**
+- 🏗 Working with **Feature-Sliced Design**
+- 📍 Saint Petersburg
 
 ---
 
-## 📫 Contacts
+## 🚀 Tech Stack
 
-Email: andrey.babenkov.00@gmail.com  
-Telegram: https://andreybs.t.me
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,js,ts,react,vue,angular,electron" />
+</p>
+
+### Styling
+
+<p>
+<img src="https://skillicons.dev/icons?i=css,sass,tailwind" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,webpack,vite,docker,nginx,figma" />
+</p>
 
 ---
 
-⭐ Always open to interesting frontend projects and collaboration.
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AndreyBS1&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyBS1&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🔥 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AndreyBS1&theme=tokyo-night"/>
+</p>
+
+---
+
+## 📫 Contact Me
+
+📧 Email: **andrey.babenkov.00@gmail.com**
+
+💬 Telegram: **@andreybs**
+
+🐙 GitHub:  
+https://github.com/AndreyBS1
+
+---
+
+⭐ Always open to interesting frontend projects and collaboration
